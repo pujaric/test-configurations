@@ -1,0 +1,3 @@
+app:
+  errorThreshold: 4
+  timeStamp: 4 #Days/Hours/Minutes/Seconds
